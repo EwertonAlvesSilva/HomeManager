@@ -4,4 +4,4 @@ TCC da Faculdade
 
 ## Getting Started
 
-Aplicativo gerenciador de familias para controlar uma tranca eletromagnetica.
+Aplicativo mobile criado com Flutter para gerenciar grupos e controlar uma tranca eletromagnética via bluetooth.
